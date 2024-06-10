@@ -1,3 +1,8 @@
+# To run 
+python3 color_tuner.py 
+
+# please naviagate to etc/SS.. <Location of the images> or you can copy images to folder that you want. 
+
 # For PIL error 
 sudo apt install python3-tk
 
