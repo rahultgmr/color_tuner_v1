@@ -1,0 +1,9 @@
+# For PIL error 
+sudo apt install python3-tk
+
+# General
+pip install opencv-python
+pip install numpy
+pip install Pillow
+
+# Git 
